@@ -1,0 +1,31 @@
+﻿<a href="link">顯示文字</a><br>
+
+
+
+
+<a href="link"><img src="img_link" border="0">顯示文字</a>
+<a href="link"><img src="https://img_link" border="0"></a>
+
+
+
+
+<a href="link">[ 了解更多 ]</a><br>
+
+
+
+
+<a href="link" target="_blank"><img src="img_link" border="0"></a>
+
+
+* _self: 預設值，在當前視窗開啟
+* _blank: 在新視窗開啟
+* _parent: 在上一層父視窗開啟
+* _top: 在最頂層父視窗開啟
+* framename: 指定在哪個框架中開啟
+
+
+HTML 超連結 <a> 標籤 (tag)
+
+
+ai生成圖片語法
+顯示圖片請透過 markdown 語法 (https://source.unsplash.com/2560x1440/?<app>)
